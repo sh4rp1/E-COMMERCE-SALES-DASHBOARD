@@ -2,7 +2,7 @@
 ## Objecive
 
 Owner of ABC Store wants us to help them create a dashboard to track and analyze their online sales across India.
-
+ 
 ## Description
 Developed an interactive dashboard for monitoring and examining online sales data.
 Implemented intricate parameters for detailed exploration within the worksheet, allowing for tailoring through filters and slicers.
